@@ -1,4 +1,4 @@
-# MERN_Project
+# MERN_SHOPFORHOME Project
 
 1.clone the repo using this command
 
