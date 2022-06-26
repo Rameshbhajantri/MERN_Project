@@ -59,9 +59,8 @@
 
    1. for mongodb atlas database creation follow this tutorial->https://www.youtube.com/watch?v=KKyag6t98g8
    2. you can use any random string as JWTSECRET
-   3. for localhost REACT_APP_API_URL is http://localhost:5000/api
-   4. #### note: add .env on .gitignore
-   5. for server deployment use secrets directly
+   3. #### note: add .env on .gitignore
+   4. for server deployment use secrets directly
 
 5. <b>deploy this project</b> on your local server by using this command
 
